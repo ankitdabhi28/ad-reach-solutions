@@ -24,7 +24,7 @@ There is no installation required for AdReach Solutions. Simply access our platf
 
 ## Documentation
 
-For detailed documentation and guides on using AdReach Solutions, please refer to our [documentation](https://docs.adreachsolutions.com:target="_blank).
+For detailed documentation and guides on using AdReach Solutions, please refer to our [documentation](https://krmdigital.in/).
 
 ## Support
 
